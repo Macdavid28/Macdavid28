@@ -40,6 +40,7 @@ Frontend Software Engineer
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python">
 </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-# <img src="https://github-readme-stats.vercel.app/api?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid28's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid28's GitHub Stats" />
+
 # ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 # ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Macdavid28&theme=tokyonight&hide_border=true)
