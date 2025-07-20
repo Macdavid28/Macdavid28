@@ -15,19 +15,7 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 
 ## 🚀 Current Projects
 
-- 🌐 **Dev Portfolio Site** – built with React + TailwindCSS + GSAP
-- 🔗 **Blog App** using MERN stack (MongoDB, Express.js, React, Node.js)
-- 🧠 Working on a **developer-focused content platform** for code sharing
-
----
-
-<! -- ## 📘 Currently Learning
-
-- ⛓️ Advanced **TypeScript patterns**
-- 🚀 **Next.js** and server-side rendering (SSR)
-- 📦 Building and publishing **npm packages**
-
---- -->
+- 🌐 **MedGuard** – A fake verification site built with React + TailwindCSS + Node
 
 ## 🔗 Connect With Me
 
