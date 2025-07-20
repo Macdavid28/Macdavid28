@@ -1,46 +1,90 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Temiloluwa Tomilola David
+<!-- Banner -->
+<img src="https://i.imgur.com/NV5mMF1.png" alt="Temiloluwa David Banner" style="width:100%; max-height:250px;" />
 
-## Frontend Sofware Engineer
+# 👋 Hi there!  
+I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** who thrives on turning ideas into beautiful, interactive, and scalable web experiences.
 
-Frontend Software Engineer
+---
 
-- 🌍 I'm based in Lagos,Nigeria
-- 💬 Contact me @ david.tomi2020@gmail.com
-- 🤝 I'm open to assocating on open source projects
-- 👨🏻‍🤝‍👨🏻 Im looking to collaborate with other content creators
+## 👨‍💻 About Me
 
-### Connect with me :
+- 🌍 Based in **Lagos, Nigeria**
+- 💼 Specializing in **JavaScript**, **React**, and modern frontend technologies
+- 💬 Reach me at **david.tomi2020@gmail.com**
+- 🤝 Open to collaborating on **open-source** and **startup ideas**
+- 📚 Lifelong learner always looking to grow, build, and contribute
 
-<a href="https://web.facebook.com/profile.php?id=100074684604030" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://github.com/Macdavid28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/tomilola-temiloluwa-3005a4254/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/david51372918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+---
 
- </p>
- 
-### Languages and Tools:
+## 🚀 Current Projects
+
+- 🌐 **Dev Portfolio Site** – built with React + TailwindCSS + GSAP
+- 🔗 **Blog App** using MERN stack (MongoDB, Express.js, React, Node.js)
+- 🧠 Working on a **developer-focused content platform** for code sharing
+
+---
+
+## 📘 Currently Learning
+
+- ⛓️ Advanced **TypeScript patterns**
+- 🚀 **Next.js** and server-side rendering (SSR)
+- 📦 Building and publishing **npm packages**
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://web.facebook.com/profile.php?id=100074684604030" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/Macdavid28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomilola-temiloluwa-3005a4254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/david51372918" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-cc6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Dev Tools:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel"/></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python">
-</a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid28's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid28's GitHub Stats" />
+</p>
 
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-# ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Macdavid28&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macdavid28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
