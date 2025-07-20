@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/NV5mMF1.png" alt="Temiloluwa David Banner" style="width:100%; max-height:250px;" />
-
 # 👋 Hi there!  
 I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** who thrives on turning ideas into beautiful, interactive, and scalable web experiences.
 
@@ -24,13 +21,13 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 
 ---
 
-## 📘 Currently Learning
+<! -- ## 📘 Currently Learning
 
 - ⛓️ Advanced **TypeScript patterns**
 - 🚀 **Next.js** and server-side rendering (SSR)
 - 📦 Building and publishing **npm packages**
 
----
+--- -->
 
 ## 🔗 Connect With Me
 
