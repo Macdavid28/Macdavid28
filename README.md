@@ -62,7 +62,14 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Macdavid28&theme=algolia" />
+  </a>
+</p>
 
+
+---
 ## 📊 GitHub Stats
 
 <p align="left">
