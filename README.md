@@ -15,7 +15,7 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 
 ## 🚀 Current Projects
 
-- 🌐 **MedGuard** – A fake verification site built with React + TailwindCSS + Node
+- 🌐 **ByteCart** – A fullstack e-commerce with built with MERN stack
 
 ## 🔗 Connect With Me
 
