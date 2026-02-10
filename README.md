@@ -63,24 +63,10 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ---
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Macdavid28&theme=algolia" />
-  </a>
-</p>
-
-
----
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid28's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macdavid28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=macdavid28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=macdavid28&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=macdavid28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=macdavid28&icon=0&color=0)](https://visitcount.itsvg.in)
