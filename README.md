@@ -1,5 +1,5 @@
 # 👋 Hi there!  
-I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** who thrives on turning ideas into beautiful, interactive, and scalable web experiences.
+I'm **Temiloluwa Tomilola David**, a **Fullstack Software Engineer** who thrives on turning ideas into beautiful, interactive, and scalable web experiences.
 
 ---
 
