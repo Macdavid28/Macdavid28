@@ -6,16 +6,11 @@ I'm **Temiloluwa Tomilola David**, a passionate **Frontend Software Engineer** w
 ## 👨‍💻 About Me
 
 - 🌍 Based in **Lagos, Nigeria**
-- 💼 Specializing in **JavaScript**, **React**, and modern frontend technologies
 - 💬 Reach me at **david.tomi2020@gmail.com**
 - 🤝 Open to collaborating on **open-source** and **startup ideas**
 - 📚 Lifelong learner always looking to grow, build, and contribute
 
 ---
-
-## 🚀 Current Projects
-
-- 🌐 **ByteCart** – A fullstack e-commerce with built with MERN stack
 
 ## 🔗 Connect With Me
 
