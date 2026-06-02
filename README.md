@@ -51,6 +51,6 @@ Building scalable web applications with clean architecture and high performance 
 
 ## 📫 Let’s Connect
 
-[![X](https://img.shields.io/badge/itsjustkevs-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CipherDave28)
+[![X](https://img.shields.io/badge/CipherDave-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CipherDave28)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macdavid28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomilola-temiloluwa)
