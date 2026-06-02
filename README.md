@@ -15,7 +15,7 @@ Building scalable web applications with clean architecture and high performance 
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,postman,docker,git,firebase,supabase,mysql,mongodb,postgres,canva&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,python,postman,docker,linux,git,firebase,supabase,mysql,mongodb,postgres,aws,canva&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -54,3 +54,4 @@ Building scalable web applications with clean architecture and high performance 
 [![X](https://img.shields.io/badge/CipherDave-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CipherDave28)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macdavid28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomilola-temiloluwa)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.tomi2020@gmail.com)
