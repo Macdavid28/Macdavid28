@@ -1,4 +1,4 @@
-# Hi there 👋 !  
+# Hi there, I'm David 👋 !  
 
 I’m David, a software engineer focused on building scalable web platforms that blend design, performance, and real-world problem-solving.
 
