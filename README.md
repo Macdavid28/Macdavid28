@@ -1,8 +1,8 @@
 # Hi there, I'm David 👋
 
-I’m, a software engineer focused on building scalable platforms that blend design, performance, and real-world problem-solving.
+I’m a software engineer focused on building scalable platforms that blend design, performance, and real-world problem-solving.
 
-Currently, I’m working on Confiverde, an artisan marketplace platform for artisan and craft products focused on connecting clients to artisans, and fostering a sustainable creative economy.
+Currently, I’m working on Confiverde, an artisan marketplace platform for artisan and craft products focused on connecting clients to artisans and fostering a sustainable creative economy.
 
 ---
 
@@ -43,13 +43,12 @@ Building scalable web applications with clean architecture and high performance 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=macdavid28&theme=github_dark" />
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=macdavid28&theme=monokai-metallian" alt="GitHub Streak" /></a>
 </div>
-
 
 
 ---
 
-## 📫 Let’s Connect
 
 [![X](https://img.shields.io/badge/CipherDave-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CipherDave28)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macdavid28)
