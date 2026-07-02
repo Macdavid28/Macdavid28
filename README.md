@@ -1,6 +1,6 @@
-# Hi there, I'm David 👋 !  
+# Hi there, I'm David 👋
 
-I’m David, a software engineer focused on building scalable web platforms that blend design, performance, and real-world problem-solving.
+I’m, a software engineer focused on building scalable platforms that blend design, performance, and real-world problem-solving.
 
 Currently, I’m working on Confiverde, an artisan marketplace platform for artisan and craft products focused on connecting clients to artisans, and fostering a sustainable creative economy.
 
