@@ -22,7 +22,7 @@ Building scalable web applications with clean architecture and high performance 
 ## 🧠 Current Projects
 
 - **ConfiVerde** – An artisan marketplace platform for artisan and craft products focused on connecting clients to artisans and fostering a sustainable creative economy.
--**Tenex** - A distributed, multi-tenant project management platform built with a microservices architecture using Nx, Node.js, Express, TypeScript, gRPC, PostgreSQL, and Docker.
+- **Tenex** - A distributed, multi-tenant project management platform built with a microservices architecture using Nx, Node.js, Express, TypeScript, gRPC, PostgreSQL, and Docker.
 
 ---
 
