@@ -1,4 +1,4 @@
-# Hi there, I'm David 👋
+# Hi there, I'm Mac David 👋
 
 I’m a software engineer focused on building scalable platforms that blend design, performance, and real-world problem-solving.
 
